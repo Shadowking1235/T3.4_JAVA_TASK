@@ -9,6 +9,7 @@ public class Main {
         Team.add(new Player(Data.blue, "Данил"));
         Team.add(new Player(Data.red, "Даша"));
         Team.add(new Player(Data.blue, "Маша"));
+          Team.add(new Player(Data.blue, "Маша"));
         Team.add(new Player(Data.red, "Ксюша"));
         Team.add(new Player(Data.blue, "Таня"));
         Data.Play(Team);
